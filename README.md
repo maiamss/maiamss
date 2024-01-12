@@ -1,4 +1,7 @@
-# 👋🏽 **Maiara Moraes**
+
+
+<p align="center">
+<h1 align="center">👋 MAIARA MORAES</h1> 
 
 ## 🧚🏽‍♀️ **Sobre mim:**
 
