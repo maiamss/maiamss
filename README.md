@@ -17,8 +17,9 @@
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=228b22)
 
 
-## 🤸🏽‍♀️ **Github status**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maiamss&theme=246724&bg_color=122&border_color=246724C&show_icons=true&icon_color=5228b22title_color=E94D5F&text_color=228b22)
+## 🤸🏽‍♀️ **Linguagens mais usadas:**
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maiamss&layout=compact&theme=shadow_green&bg_color=000)
+
 
 
 ## 🔎 **Você me encontra em:**
