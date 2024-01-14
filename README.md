@@ -23,6 +23,5 @@
 
 
 ## 🔎 **Você me encontra em:**
-
-![E-mail : maiara.ctt@gmail.com](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/maiaramss/)
+[![maiara.ctt@gmail.com](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:maiara.ctt@gmail.com)
