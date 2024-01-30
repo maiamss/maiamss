@@ -21,7 +21,7 @@
 
 
 ## 🤸🏽‍♀️ **Most used languages:**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maiamss&theme=shadow_green&bg_color=000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maiamss&layout=compact&theme=shadow_green&bg_color=010101)
 
 
 
