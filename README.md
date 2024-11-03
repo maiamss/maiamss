@@ -8,9 +8,6 @@
 
 * Maiara Moraes, 20 years old (she/her)
 * Computer Science Student
-* Currently studying JavaScript and Angular
-
-
 
 ## 👩🏽‍💻**My skills:**
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=228b22)
@@ -24,7 +21,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maiamss&layout=compact&theme=shadow_green&bg_color=010101)
 
 
-
-## 🔎 **You can find me on:**
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/maiaramss/)
-[![maiara.ctt@gmail.com](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:maiara.ctt@gmail.com)
